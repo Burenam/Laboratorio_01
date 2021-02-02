@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorio_01", "Laboratorio_01\Laboratorio_01.csproj", "{C469DB11-0B41-4FB4-AFC0-0BB8DAAB0158}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consola_matematica", "Consola_matematica\Consola_matematica.csproj", "{70E228A2-F9B5-46E9-81E1-34BD877E474D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C469DB11-0B41-4FB4-AFC0-0BB8DAAB0158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C469DB11-0B41-4FB4-AFC0-0BB8DAAB0158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C469DB11-0B41-4FB4-AFC0-0BB8DAAB0158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C469DB11-0B41-4FB4-AFC0-0BB8DAAB0158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E228A2-F9B5-46E9-81E1-34BD877E474D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E228A2-F9B5-46E9-81E1-34BD877E474D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E228A2-F9B5-46E9-81E1-34BD877E474D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E228A2-F9B5-46E9-81E1-34BD877E474D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82743954-ED30-4460-8CE5-FCEA2B8516CA}
+	EndGlobalSection
+EndGlobal
